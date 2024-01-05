@@ -1523,17 +1523,13 @@ footer{
 
                 .create{
                     flex-direction:column-reverse;
-                    // margin-bottom: 300px;
                     .text__card__all{
-                        // width: 100%;
                         display: flex;
-                        // margin: 0 auto;
                         column-gap: 0;
                         justify-content: center;
                         padding: 66px 14px;
                         background-color: #000000;
                         .restangil{
-
                             img{
                                 display: none;
                             }
@@ -1541,14 +1537,12 @@ footer{
                         .text{
                             display: flex;
                             flex-direction: column;
-                            // padding: 0 20px;
                             .li{
                                 display: block;
-                                transform: translateY(-74px);
+                                transform: translateY(-76px);
                             }
                             h2{
                                 max-width: 270px;
-                                // background-color: green;
                                 font-size: 24px;
                                 font-weight: 700;
                                 line-height: 48px;
@@ -1594,16 +1588,12 @@ footer{
                 }
 
                 .one{
-                    // margin-top: 600px;
-                    // transform: ;
                     flex-direction: column;
-
                     .img__card{
                         display: none;
                         background-image: url("../img/med-2.jpg");
                         background-position: center center;
                         background-repeat: no-repeat;
-                        // margin-bottom: 200px;
                         width: 375px;
                         height: 294px;
                     }
@@ -1612,7 +1602,6 @@ footer{
                         img{
                             display: block;
                             max-width: 325px;
-
                         }
                     }
                     .text__card__all{
@@ -1620,7 +1609,6 @@ footer{
                         column-gap: 48px;
                         align-self: center;
                         padding: 72px 20px;
-                        // transform: translateY(100px);
                         background-color: #FFFFFF;
                         .text{
                             h2{
@@ -1641,7 +1629,6 @@ footer{
                                 margin-bottom: 23px;
                                 color: #000000;
                             }
-                            
                         }
                         .list{
                             width: 6px;
@@ -1649,15 +1636,12 @@ footer{
                             background-color: #FFFFFF;
                         }
                     }
-                    
                 }
     
                 .two{
                     flex-direction:column-reverse;
                     margin-top: 168px;
-                    
                     .text__card__all{
-                        // width: 610px;
                         display: flex;
                         column-gap: 0;
                         align-self: center;
@@ -1804,10 +1788,8 @@ footer{
                 .phot{
                     flex-direction: column; 
                     align-items: center;
-                    // text-align: center;
                     .displey{
                         .white__logo{
-    
                             img{
                                 margin-bottom: 0;
                             }
@@ -1815,7 +1797,6 @@ footer{
                         .nav__tage{
                             display: none;
                             margin-top: 32px;
-                            
                             nav{
                                 margin-bottom: 72px;
                                 ul{
@@ -1841,41 +1822,29 @@ footer{
                                 display: flex;
                                 column-gap: 16px;
                                 margin-top: 32px;
-                                
                                 .one__img:hover svg path{
                                     fill: #6028F1;
                                     cursor: pointer;
                                     transition: 0.4s;
-                                    
                                 }
                                 .two__img:hover svg path{
                                     fill: #D3205A;
-                                    
                                     cursor: pointer;
                                     transition: 0.4s;
-    
-                                    
                                 }
                                 .tree__img:hover svg path{
                                     fill:  #27718A;
-                                    
                                     cursor: pointer;
                                     transition: 0.4s;
-    
-                                    
                                 }
                                 .four__img:hover svg path{
                                     fill: #DE3838 ;
-                                    
                                     cursor: pointer;
                                     transition: 0.4s;
-    
-                                    
                                 }
                                 .five__img:hover svg path{
                                     fill: #BC7198;
                                     transition: 0.4s;
-                                    
                                     cursor: pointer;
                                     
                                 }
@@ -1914,7 +1883,6 @@ footer{
                             }
                         }
                     }
-                    
                 }
                 .a__link{
                     display: flex;
@@ -1933,7 +1901,6 @@ footer{
                         color: #FFFFFF;
                     }
                 }
-                
             }
         }
     }
