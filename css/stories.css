@@ -453,6 +453,7 @@ footer .container .footer__all .a__link .bet {
 }
 footer .container .footer__all .a__link a {
   text-decoration: none;
+  opacity: 0.4;
   font-size: 15px;
   font-weight: 400;
   line-height: 20px;
